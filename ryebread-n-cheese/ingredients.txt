@@ -1,2 +1,4 @@
 ryebread
 cheese
+salt
+pepper
